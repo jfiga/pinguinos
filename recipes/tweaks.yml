@@ -5,5 +5,4 @@ modules:
   - from-file: tweaks/podman.yml
   - from-file: tweaks/packages.yml
   #- from-file: tweaks/gnome-extensions.yml
-  #- from-file: tweaks/flatpaks.yml
-  #- type: signing
+  - from-file: tweaks/flatpaks.yml
