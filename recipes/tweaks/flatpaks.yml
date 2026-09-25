@@ -1,0 +1,14 @@
+---
+# yaml-language-server: $schema=https://schema.blue-build.org/module-list-v1.json
+modules:
+  - type: default-flatpaks
+    configurations:
+      - scope: system
+        notify: false
+        install:
+          - com.brave.Browser
+          - com.mattjakeman.ExtensionManager
+          - org.mozilla.firefox
+          - com.nextcloud.desktopclient.nextcloud
+          - page.tesk.Refine
+          - dev.zed.Zed
