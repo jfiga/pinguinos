@@ -1,0 +1,9 @@
+---
+# yaml-language-server: $schema=https://schema.blue-build.org/module-list-v1.json
+modules:
+  - from-file: tweaks/kvm.yml
+  - from-file: tweaks/podman.yml
+  - from-file: tweaks/packages.yml
+  #- from-file: tweaks/gnome-extensions.yml
+  #- from-file: tweaks/flatpaks.yml
+  #- type: signing

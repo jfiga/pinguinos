@@ -1,0 +1,26 @@
+---
+# yaml-language-server: $schema=https://schema.blue-build.org/module-list-v1.json
+modules:
+  - type: rpm-ostree
+    install:
+      - ack
+      - emacs-nox
+      - git
+      - glow
+      - htop
+      - jq
+      - keepassxc
+      - tcpdump
+      - terminator      
+      - uv
+      - vim
+      - vim-ale
+      - vim-default-editor
+      - vim-enhanced
+      - vim-fugitive
+      - vim-nerdtree
+      - yq
+    remove:
+      - firefox
+      - firefox-langpacks
+      - nano-default-editor
