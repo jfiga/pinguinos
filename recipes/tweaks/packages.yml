@@ -7,6 +7,7 @@ modules:
       - curl
       - emacs-nox
       - flatpak-builder
+      - fzf
       - git
       - glow
       - htop
@@ -23,6 +24,7 @@ modules:
       - vim-fugitive
       - vim-nerdtree
       - yq
+      - zsh
     remove:
       - firefox
       - firefox-langpacks
