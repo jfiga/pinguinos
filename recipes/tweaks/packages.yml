@@ -4,14 +4,16 @@ modules:
   - type: rpm-ostree
     install:
       - ack
+      - curl
       - emacs-nox
       - git
       - glow
       - htop
       - jq
       - keepassxc
+      - rpm-build
       - tcpdump
-      - terminator      
+      - terminator
       - uv
       - vim
       - vim-ale
