@@ -6,6 +6,7 @@ modules:
       - ack
       - curl
       - emacs-nox
+      - flatpak-builder
       - git
       - glow
       - htop
