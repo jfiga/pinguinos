@@ -11,7 +11,7 @@ modules:
       - htop
       - jq
       - keepassxc
-      - rpmbuild
+      - rpm-build
       - tcpdump
       - terminator
       - uv
