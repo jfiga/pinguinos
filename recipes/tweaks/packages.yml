@@ -24,6 +24,7 @@ modules:
       - vim-fugitive
       - vim-nerdtree
       - yq
+      - zsh
     remove:
       - firefox
       - firefox-langpacks
