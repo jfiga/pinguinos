@@ -7,6 +7,7 @@ modules:
       - curl
       - emacs-nox
       - flatpak-builder
+      - fzf
       - git
       - glow
       - htop
