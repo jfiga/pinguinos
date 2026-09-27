@@ -12,3 +12,4 @@ modules:
           - com.nextcloud.desktopclient.nextcloud
           - page.tesk.Refine
           - dev.zed.Zed
+          - org.freedesktop.Sdk/x86_64/25.08
