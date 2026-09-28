@@ -13,3 +13,8 @@ modules:
           - page.tesk.Refine
           - dev.zed.Zed
           - com.rtosta.zapzap
+          - org.gnome.TextEditor
+          - com.transmissionbt.Transmission
+          - org.libreoffice.LibreOffice
+          - org.kde.kmymoney
+          - org.kde.kdenlive
