@@ -19,3 +19,4 @@ modules:
           - org.kde.kmymoney
           - org.kde.kdenlive
           - org.gnome.Calculator
+          - org.signal.Signal
