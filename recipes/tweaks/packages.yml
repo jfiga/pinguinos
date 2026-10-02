@@ -10,6 +10,7 @@ modules:
       - fzf
       - git
       - glow
+      - gnome-tweaks
       - htop
       - jq
       - keepassxc
