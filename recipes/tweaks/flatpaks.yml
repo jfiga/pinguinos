@@ -20,3 +20,4 @@ modules:
           - org.kde.kdenlive
           - org.gnome.Calculator
           - org.signal.Signal
+          - net.cozic.joplin_desktop
