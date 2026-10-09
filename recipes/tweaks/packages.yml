@@ -26,6 +26,7 @@ modules:
       - vim-nerdtree
       - yq
       - zsh
+      - chromaprint-tools
     remove:
       - firefox
       - firefox-langpacks
