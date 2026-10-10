@@ -21,3 +21,5 @@ modules:
           - org.gnome.Calculator
           - org.signal.Signal
           - net.cozic.joplin_desktop
+          - org.gnome.Loupe
+          - org.gnome.gThumb
