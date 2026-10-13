@@ -11,7 +11,6 @@ modules:
           - org.mozilla.firefox
           - com.nextcloud.desktopclient.nextcloud
           - page.tesk.Refine
-          - dev.zed.Zed
           - com.rtosta.zapzap
           - org.gnome.TextEditor
           - com.transmissionbt.Transmission
