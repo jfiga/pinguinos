@@ -6,4 +6,4 @@ modules:
       - 600 # Launch New Instance
       - 615 # AppIndicator and KStatusNotifierItem Support
       - 1460 # Vitals
-      - 4174 # Systemd Manager
+      - 6655 # OpenWeather Refined
