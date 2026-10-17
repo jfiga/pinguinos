@@ -6,3 +6,4 @@ modules:
   - from-file: tweaks/packages.yml
   #- from-file: tweaks/gnome-extensions.yml
   - from-file: tweaks/flatpaks.yml
+  - from-file: tweaks/brew.yml

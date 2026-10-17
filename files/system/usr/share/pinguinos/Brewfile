@@ -1,0 +1,7 @@
+# Installed for the default user on login by pinguinos-brew-bundle.service
+brew "openshift-cli"
+brew "kubernetes-cli"
+brew "node"
+brew "fluxcd"
+brew "kustomize"
+brew "krew"
