@@ -22,3 +22,5 @@ modules:
           - net.cozic.joplin_desktop
           - org.gnome.Loupe
           - org.gnome.gThumb
+          - org.gnome.Papers
+          - it.mijorus.gearlever
