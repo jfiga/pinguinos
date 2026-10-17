@@ -1,0 +1,8 @@
+[org.gnome.desktop.interface]
+gtk-enable-primary-paste=true
+
+[org.gnome.desktop.wm.preferences]
+button-layout='appmenu:minimize,maximize,close'
+
+[org.gnome.desktop.input-sources]
+sources=[('xkb', 'us'), ('xkb', 'latam'), ('xkb', 'es')]
