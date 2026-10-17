@@ -1,0 +1,9 @@
+---
+# yaml-language-server: $schema=https://schema.blue-build.org/module-list-v1.json
+modules:
+  - type: gnome-extensions
+    install:
+      - 600 # Launch New Instance
+      - 615 # AppIndicator and KStatusNotifierItem Support
+      - 1460 # Vitals
+      - 8261 # SimpleWeather
