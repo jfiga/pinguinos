@@ -24,3 +24,10 @@ modules:
           - org.gnome.gThumb
           - org.gnome.Papers
           - it.mijorus.gearlever
+          - ca.littlesvr.asunder
+          - org.musicbrainz.Picard
+          - org.gnome.Music
+          - org.videolan.VLC
+          - org.gnome.SoundJuicer
+          - fr.handbrake.ghb
+          - com.makemkv.MakeMKV
