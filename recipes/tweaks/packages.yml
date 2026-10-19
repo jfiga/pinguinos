@@ -27,6 +27,7 @@ modules:
       - yq
       - zsh
       - chromaprint-tools
+      - regionset
     remove:
       - firefox
       - firefox-langpacks
