@@ -9,7 +9,6 @@ modules:
           - com.brave.Browser
           - com.mattjakeman.ExtensionManager
           - org.mozilla.firefox
-          - com.nextcloud.desktopclient.nextcloud
           - page.tesk.Refine
           - com.rtosta.zapzap
           - org.gnome.TextEditor
