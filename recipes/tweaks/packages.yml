@@ -28,6 +28,7 @@ modules:
       - zsh
       - chromaprint-tools
       - regionset
+      - btop
     remove:
       - firefox
       - firefox-langpacks
